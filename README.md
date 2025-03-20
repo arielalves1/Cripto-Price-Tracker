@@ -2,7 +2,9 @@
 
 ## Description
 Study project for a Cripto Tracking application created with Javascript from a lesson.
+
 Prices are displayed using CHF ( Swiss Francs ).
+
 The Application consumes data from CoinGecko API to display real time values for the criptocurrencies.
 
 
